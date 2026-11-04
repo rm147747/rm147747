@@ -1,4 +1,4 @@
-# Brandão Lab
+# Brandao Lab
 
 **Clinical AI and computational oncology at the University of Florida College of Medicine, Jacksonville.**
 
