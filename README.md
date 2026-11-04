@@ -19,6 +19,7 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 | Project | What it is | Status |
 | --- | --- | --- |
 | OncoIA | Oncology decision-support platform launched in February 2025: hybrid retrieval (dense embeddings plus BM25 with reciprocal rank fusion) over 368 NCCN-anchored clinical scenarios across 23 tumor types, and a five-agent virtual tumor board | Closed research platform, access by invitation for experiments |
+| OncoMatch | Clinical trial matching module inside OncoIA: AI eligibility screening of a free-text clinical note against 13,901 recruiting trials from ClinicalTrials.gov, 16 tumor types, 80 or more biomarkers, country filter, about 20 seconds per screen | Closed research platform, access by invitation for experiments |
 | onc-bench | Pre-registered harness that tests frontier language models against GU oncology cases: four vendor adapters, debate arms, resumable call ledger, blinded scoring, statistical analysis plan written before any data | Harness complete, case authoring under way |
 | OncoBoardBench | Platform for longitudinal evaluation of AI-supported oncology decisions on frozen synthetic cases with blinded expert review | Study phase |
 | AlphaHRD | Four pathogenicity predictors benchmarked against survival for HRR missense variants across 31 TCGA cancer types | Manuscript under review |
