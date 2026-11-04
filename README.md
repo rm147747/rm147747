@@ -6,7 +6,7 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 
 ## Research lines
 
-**1. Evaluation of clinical AI and multi-agent systems.** How do large language models reason about oncology decisions, alone and when they debate each other, and how should that be measured? Pre-registered protocols, frozen synthetic cases, blinded human scoring, open evaluation harnesses.
+**1. Clinical AI and multi-agent systems.** Building decision-support systems for oncology and measuring whether they help: how large language models reason about oncology decisions, alone and when they debate each other, and how that should be evaluated. Deployed platforms, pre-registered protocols, frozen synthetic cases, blinded human scoring, open evaluation harnesses.
 
 **2. AI-built medical education.** Teaching material for fellows, residents and students produced with agent pipelines and reviewed by a clinician: bedside notes from rounds, tumor-specific updates, interactive courses that teach a method through one of our own studies.
 
@@ -18,6 +18,7 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 
 | Project | What it is | Status |
 | --- | --- | --- |
+| [OncoIA](https://oncoia.com) | Oncology decision-support platform launched in February 2025: hybrid retrieval (dense embeddings plus BM25 with reciprocal rank fusion) over 368 NCCN-anchored clinical scenarios across 23 tumor types, and a five-agent virtual tumor board | Live since 2025, research tool |
 | onc-bench | Pre-registered harness that tests frontier language models against GU oncology cases: four vendor adapters, debate arms, resumable call ledger, blinded scoring, statistical analysis plan written before any data | Harness complete, case authoring under way |
 | OncoBoardBench | Platform for longitudinal evaluation of AI-supported oncology decisions on frozen synthetic cases with blinded expert review | Study phase |
 | AlphaHRD | Four pathogenicity predictors benchmarked against survival for HRR missense variants across 31 TCGA cancer types | Manuscript under review |
