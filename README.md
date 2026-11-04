@@ -8,7 +8,7 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 
 **1. Clinical AI and multi-agent systems.** Building decision-support systems for oncology and measuring whether they help: how large language models reason about oncology decisions, alone and when they debate each other, and how that should be evaluated. Deployed platforms, pre-registered protocols, frozen synthetic cases, blinded human scoring, open evaluation harnesses.
 
-**2. AI-built medical education.** Teaching material for fellows, residents and students produced with agent pipelines and reviewed by a clinician: bedside notes from rounds, tumor-specific updates, interactive courses that teach a method through one of our own studies.
+**2. AI-built medical education.** Teaching material for fellows, residents and students produced with multi-agent pipelines (content authors, independent adversarial reviewers, a judge, bibliography checks, an education layer) and signed off by a clinician. Live at [Hem/Onc Academy OncoJax](https://www.oncojax.com): tumor-specific clinical updates with cases, flashcards and pocket cards; a research methods course that teaches meta-analysis through one of our own studies, with Excel and R labs; [OncoTricks](https://www.oncotricks.com), bedside notes from rounds; and [Board Rounds](https://www.boardhemonc.com), board-style questions in hematology and oncology.
 
 **3. Computational oncology and variant interpretation.** Pathogenicity prediction for variants of uncertain significance in homologous recombination repair genes, chromosome 3p biology in kidney cancer, and evolutionary models for adaptive therapy.
 
@@ -26,7 +26,9 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 | OncoBoardBench | Platform for longitudinal evaluation of AI-supported oncology decisions on frozen synthetic cases with blinded expert review | Study phase |
 | AlphaHRD | Four pathogenicity predictors benchmarked against survival for HRR missense variants across 31 TCGA cancer types | Manuscript under review |
 | Computational Tumor Board | Four-layer evolutionary modeling framework for adaptive cancer therapy | Prototype |
+| [Hem/Onc Academy OncoJax](https://www.oncojax.com) | Teaching courses for fellows, residents and students: Kidney, Bladder, Lung and Skin Cancer 2026 (trial cards, decision maps, pocket cards, cases, quizzes, flashcards, memory devices, teach mode for the projector) and Inside a Meta-Analysis, a 17-module research methods course built on our surrogate endpoint study, with Excel and R labs. Each course is drafted, adversarially reviewed by independent agents, judged and reference-checked; every review is kept | Live; the meta-analysis course opens after the ASCO GU 2027 embargo |
 | [OncoTricks](https://www.oncotricks.com) | Short, sourced teaching notes from inpatient rounds, for fellows, residents and students | Live, updated after rounds |
+| [Board Rounds](https://www.boardhemonc.com) | 131 board-style cases in medical oncology and hematology: train by area, timed blueprint-weighted simulation, flashcards from missed questions; no login, progress stays on the device | Live |
 | Idea Tournament | Multi-agent system that proposes, screens, verifies and ranks research ideas for trainees | Prototype |
 
 Repositories are opened as each study is released. Everything here uses synthetic or public data only; no patient data is stored in this account.
