@@ -14,6 +14,8 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 
 **4. Early detection.** Corresponding author of OncoSeek, an AI multi-cancer early detection test validated in 15,122 participants across seven centers in three countries (npj Precision Oncology, 2025).
 
+**5. Agents for drug development and clinical trials.** Agentic systems for the work that sits between a drug and a patient: eligibility screening of real clinical notes against recruiting trials, structuring of protocol criteria, pre-screening and accrual support at the site level, and evaluation of how these agents fail before they are trusted. First component built: OncoMatch. Next: site-level pre-screening pilots at UF Health Jacksonville and evaluation protocols for trial-facing agents, in the same pre-registered, blinded design used in onc-bench.
+
 ## Projects
 
 | Project | What it is | Status |
