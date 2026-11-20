@@ -1,8 +1,6 @@
-# Brandao Lab
+# Raphael Brandão, MD: clinical AI and computational oncology
 
-**Clinical AI and computational oncology at the University of Florida College of Medicine, Jacksonville.**
-
-Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division of Hematology and Oncology. Medical oncologist in genitourinary cancers and melanoma. Dana-Farber trained. The lab builds and evaluates AI systems for oncology decisions, and builds the teaching tools that come out of that work.
+**Clinical AI and computational oncology**
 
 ## Research lines
 
@@ -23,9 +21,8 @@ Led by Raphael Brandão Moreira, MD, Associate Professor of Medicine, Division o
 | OncoIA | Oncology decision-support platform launched in February 2025: hybrid retrieval (dense embeddings plus BM25 with reciprocal rank fusion) over 368 NCCN-anchored clinical scenarios across 23 tumor types, and a five-agent virtual tumor board | Closed research platform, access by invitation for experiments |
 | OncoMatch | Clinical trial matching module inside OncoIA: AI eligibility screening of a free-text clinical note against 13,901 recruiting trials from ClinicalTrials.gov, 16 tumor types, 80 or more biomarkers, country filter, about 20 seconds per screen | Closed research platform, access by invitation for experiments |
 | onc-bench | Pre-registered harness that tests frontier language models against GU oncology cases: four vendor adapters, debate arms, resumable call ledger, blinded scoring, statistical analysis plan written before any data | Harness complete, case authoring under way |
-| OncoBoardBench | Platform for longitudinal evaluation of AI-supported oncology decisions on frozen synthetic cases with blinded expert review | Study phase |
-| AlphaHRD | Four pathogenicity predictors benchmarked against survival for HRR missense variants across 31 TCGA cancer types | Manuscript under review |
-| Computational Tumor Board | Four-layer evolutionary modeling framework for adaptive cancer therapy | Prototype |
+| OncoBoardBench | Platform for longitudinal evaluation of AI-supported oncology decisions on frozen synthetic cases with blinded expert review | Study phase | 
+| Computational Tumor Board | Four-layer evolutionary modeling framework for adaptive cancer therapy | Prototype | https://www.oncoboard.app/
 | [Hem/Onc Academy OncoJax](https://www.oncojax.com) | Teaching courses for fellows, residents and students: Kidney, Bladder, Lung and Skin Cancer 2026 (trial cards, decision maps, pocket cards, cases, quizzes, flashcards, memory devices, teach mode for the projector) and Inside a Meta-Analysis, a 17-module research methods course built on our surrogate endpoint study, with Excel and R labs. Each course is drafted, adversarially reviewed by independent agents, judged and reference-checked; every review is kept | Live; the meta-analysis course opens after the ASCO GU 2027 embargo |
 | [OncoTricks](https://www.oncotricks.com) | Short, sourced teaching notes from inpatient rounds, for fellows, residents and students | Live, updated after rounds |
 | [Board Rounds](https://www.boardhemonc.com) | 131 board-style cases in medical oncology and hematology: train by area, timed blueprint-weighted simulation, flashcards from missed questions; no login, progress stays on the device | Live |
